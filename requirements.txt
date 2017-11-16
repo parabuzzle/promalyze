@@ -2,3 +2,4 @@ pandas
 coverage
 nose
 pylint
+requests
