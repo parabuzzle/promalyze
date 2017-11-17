@@ -3,10 +3,16 @@ Promalyze
 
 The library to get data out of Prometheus to analyze.
 
+# Install
+
+```python
+pip install promalyze
+```
+
 # Usage
 
 ```python
-from promalyze.client import Client
+from promalyze import Client
 
 client = Client('http://localhost:9090')
 
