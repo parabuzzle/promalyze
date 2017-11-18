@@ -41,3 +41,6 @@ tmtagsHistory
 .bundle
 
 .coverage
+build
+dist
+*.egg-info
